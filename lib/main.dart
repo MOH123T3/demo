@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         );
                       } else {
                         return Text(
-                          'Empty data',
+                          'Empty Response',
                           style: Theme.of(context).textTheme.headline4,
                         );
                       }
